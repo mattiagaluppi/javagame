@@ -1,4 +1,4 @@
-Project created by <a href=https://github.com/mattiagaluppi>Mattia Galuppi</a> and <a href=https://github.com/crive1234>Filippo Crivellari</a> during the 2022/2023 school year.
+Project developed by <a href=https://github.com/mattiagaluppi>Mattia Galuppi</a> and <a href=https://github.com/crive1234>Filippo Crivellari</a> during the 2022/2023 school year.
 Completed at the end of the third year of high school (16 y.o.).
 
 The project is created completely with Java.
