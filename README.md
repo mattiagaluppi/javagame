@@ -4,7 +4,7 @@ Completed at the end of the third year of high school (16 y.o.).
 The project is created completely with Java.
 Made with Eclipse IDE for Java Developers, using the WindowBuilder extension.
 The uploaded folder is the entire workspace.
-All the project is in Italian.
+The entire poject is in Italian language.
 
 The project consists of two games: Chinese Morra (Rock, Paper, Scissors)(Morra Cinese) and Tic-Tac-Toe (Tris).
 Chinese Morra is the player against the computer (random algorithm).
